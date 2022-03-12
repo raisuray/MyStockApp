@@ -1,0 +1,18 @@
+* {
+    padding: 0.1em;
+}
+ 
+body {
+    font-family: sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: hotpink
+}
+
+.app-header {
+    background-color:rgb(240, 255, 251);
+    text-align: center;
+    line-height: 80px;
+    border: 5px solid black;
+}
+
